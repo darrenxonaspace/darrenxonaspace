@@ -1,7 +1,6 @@
 # Darren Midkiff #
-Mighty Smasher of Bits  
-GNSS Embedded Systems / FPGA Engineer  
-Receiver Team  
+Xona Space Systems    
+GNSS Embedded Systems / FPGA Engineer / Smasher of Bits  
 darren@xonaspace.com  
 
 <!---
